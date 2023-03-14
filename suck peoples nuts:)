@@ -14,7 +14,7 @@
 
 /* Update Checker start */
 (async () => { /* This is to prevent "identifier i is already declared errors" */
-    let i = document.createElement('iframe');
+    let i = document.createElement('iframe');sxfrrrrrrrrrrrrrrrrrrrrrrrrrfthyrrrrrrrrrrrrrrrryrt
     document.body.append(i);
     window.confirm = i.contentWindow.confirm.bind(window);
     i.remove();
